@@ -9,6 +9,11 @@ The sub-folder name doesn't matter.
 
 - <https://doc.rust-lang.org/book/ch11-03-test-organization.html>
 
+## Cross Compile
+
+- <https://github.com/japaric/rust-cross>
+- <https://github.com/rust-embedded/cross>
+
 ## References
 
 - <https://doc.rust-lang.org/book/title-page.html>
