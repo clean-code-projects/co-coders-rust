@@ -13,7 +13,22 @@ and `tests` for integration tests.
 
 In `rust`/`cargo`, unit test are written directly within the source file.
 
-## Testing
+## Contribute
+
+### Build
+
+```sh
+# build library and executable
+cargo build
+
+# build + run
+cargo run
+
+# compile but don't build
+cargo check
+```
+
+### Test
 
 ```sh
 # run all tests: unit, integration, doc
@@ -23,8 +38,6 @@ cargo test
 # (assume `tests/specific_test.rs` is the test file)
 cargo test --test specific_test
 ```
-
-## Contribute
 
 ## Development Environment
 
