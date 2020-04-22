@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+  "co-coders",
   "co-coders-api",
-  "co-coders"
+  "co-coders-webapp"
 ]
