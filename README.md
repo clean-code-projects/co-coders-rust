@@ -48,3 +48,4 @@ Here are some recommended extensions in VSCode used when working on this project
 - Rust Extension Pack
 - vscode-rust-syntax
 - EditorConfig for VS Code
+- markdownlint

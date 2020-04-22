@@ -2,5 +2,5 @@
 
 members = [
   "co-coders-api",
-  "co-coders-app"
+  "co-coders"
 ]

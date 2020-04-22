@@ -1,5 +1,5 @@
 [package]
-name = "co-coders-app"
+name = "co-coders"
 version = "0.1.0"
 authors = ["Homa Wong <homawong@gmail.com>"]
 edition = "2018"
